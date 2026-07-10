@@ -14,7 +14,7 @@
 >
 > 场景演示:[TikTok](https://www.tiktok.com/@alankwok516/video/7660736349024029959?is_from_webapp=1&sender_device=pc) ｜ [YouTube Shorts](https://youtube.com/shorts/mXssJ0xu4No?feature=share)
 >
-> 免费领取机器人说明:[PDF 在线预览](https://github.com/corefusionbot/qiezi-x1-3d-demos/blob/main/docs/free-robot-guide-bilingual.pdf)
+> 免费领取机器人说明:[图文在线预览(双语 5 页)](#免费领取机器人说明双语图文预览) ｜ [原始 PDF](https://github.com/corefusionbot/qiezi-x1-3d-demos/blob/main/docs/free-robot-guide-bilingual.pdf)
 
 <p align="center">
   <img src="assets/showcase-3.jpg" width="30%" alt="茄子 X1 结构外壳样机" />
@@ -62,6 +62,18 @@
 
 本仓库原创部分(`index.html`/`servo18-console.html`/`arm-console.html`/`realism.js`/`serve.ps1` 等)采用
 [Apache License 2.0](LICENSE) 开源;`vendor/`(three.js,MIT)保留其上游许可证,不受本仓库 LICENSE 影响。
+
+## 免费领取机器人说明(双语图文预览)
+
+> 逐页图文预览(所有访客/手机均可直接查看,无需依赖 GitHub 的 PDF 预览器);需原始文件见 [原始 PDF](docs/free-robot-guide-bilingual.pdf)。
+
+<p align="center">
+  <img src="docs/pages/guide-01.png" width="80%" alt="免费领取机器人说明 第1页" />
+  <img src="docs/pages/guide-02.png" width="80%" alt="免费领取机器人说明 第2页" />
+  <img src="docs/pages/guide-03.png" width="80%" alt="免费领取机器人说明 第3页" />
+  <img src="docs/pages/guide-04.png" width="80%" alt="免费领取机器人说明 第4页" />
+  <img src="docs/pages/guide-05.png" width="80%" alt="免费领取机器人说明 第5页" />
+</p>
 
 ## 诚实边界
 
