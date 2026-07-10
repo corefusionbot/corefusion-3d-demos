@@ -4,7 +4,11 @@
 > **黄仁勋说物理 AI 的 ChatGPT 时刻来了,就是我们。**
 > ### 万元级实体情感交互机器人,全球免费申领。
 
-> 项目官网:[CoreXbot.ai](https://CoreXbot.ai) ｜ 在线演示:https://corefusionbot.github.io/qiezi-x1-3d-demos/
+> 项目官网:[CoreXbot.ai](https://CoreXbot.ai)
+>
+> 场景演示:[TikTok](https://www.tiktok.com/@alankwok516/video/7660736349024029959?is_from_webapp=1&sender_device=pc) ｜ [YouTube Shorts](https://youtube.com/shorts/mXssJ0xu4No?feature=share)
+>
+> 免费领取机器人说明:[PDF 在线预览](https://github.com/corefusionbot/qiezi-x1-3d-demos/blob/main/docs/free-robot-guide-bilingual.pdf)
 
 <p align="center">
   <img src="assets/showcase-3.jpg" width="30%" alt="茄子 X1 结构外壳样机" />
