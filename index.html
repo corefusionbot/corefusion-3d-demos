@@ -58,6 +58,17 @@
   .vcard p{margin:0;color:var(--muted);font-size:13px}
   .chips{display:flex;flex-wrap:wrap;gap:7px;margin:26px 0 0}
   .chips span{font-family:var(--mono);font-size:11.5px;color:#a9d9ff;border:1px solid var(--line2);border-radius:5px;padding:3px 9px;background:rgba(91,140,255,.06)}
+  /* 免费申领登记:内嵌表单区 */
+  .apply{margin:34px 0 0;border:1px solid var(--line2);border-radius:14px;background:var(--panel);
+    padding:22px 22px 12px;box-shadow:0 0 0 1px rgba(47,224,200,.10),0 18px 44px -26px rgba(77,139,255,.6)}
+  .apply h2{margin:0 0 6px;font-size:21px;font-weight:800}
+  .apply h2 .g{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .apply .sub{color:var(--muted);font-size:13.5px;margin:0 0 14px;max-width:720px}
+  .apply .framebox{border-radius:10px;overflow:hidden;border:1px solid var(--line);background:#fff}
+  .apply iframe{display:block;width:100%;height:920px;border:0}
+  .apply .alt{font-size:12.5px;color:var(--dim);margin:10px 0 2px}
+  .apply .alt a{color:var(--teal);text-decoration:none}.apply .alt a:hover{text-decoration:underline}
+  @media(max-width:600px){.apply iframe{height:1080px}}
   footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);color:var(--dim);font-size:12px;font-family:var(--mono)}
   footer a{color:var(--teal);text-decoration:none}footer a:hover{text-decoration:underline}
 </style>
@@ -105,6 +116,15 @@
     </a>
   </div>
 
+  <div class="apply">
+    <h2 data-i18n-html="applyT">免费申领登记 · <span class="g">Sign-up</span></h2>
+    <p class="sub" data-i18n-html="applyP">填写下表即可登记免费申领(姓名 · 国家/地区 · 邮箱 · 联系电话)。表单托管于 Google;若下方区域空白无法加载,请用底部链接在新窗口打开。</p>
+    <div class="framebox">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjl0c8Cqfb0TA86kMMw1MLPa6noMSQZvrlL9IAvVORmAdhnA/viewform?embedded=true" loading="lazy" title="申领登记表单">加载中…</iframe>
+    </div>
+    <p class="alt" data-i18n-html="applyAlt">打不开?<a href="https://forms.gle/UL3ojft8bHjyTcW58" target="_blank" rel="noopener">在新窗口打开申领表单 ↗</a>(中国大陆访问 Google 需自备网络环境)</p>
+  </div>
+
   <div class="chips">
     <span>three.js 0.160.0 · MIT</span>
     <span>3D 模型需自备(BYO GLB)</span>
@@ -129,6 +149,9 @@ const T = {
     card1P:'面部 15 路 + 颈部 3 路逐路滑杆;情绪预设与混合、清醒度、微表情、情绪剧本、AU 耦合、分层可视化、拟真微动、说话口型、协议帧与限速示波器,实时驱动 3D。',
     card2T:'双臂 8 路控制台',
     card2P:'左右臂各 4 关节滑杆(软限位/中位)、7 手势关键帧插值、协调层(同步步进/预备跟随)、姿态互锁、动作剧本、镜像/急停-hold、协议帧预览;3D 人物骨骼驱动。',
+    applyT:'免费申领登记 · <span class="g">Sign-up</span>',
+    applyP:'填写下表即可登记免费申领(姓名 · 国家/地区 · 邮箱 · 联系电话)。表单托管于 Google;若下方区域空白无法加载,请用底部链接在新窗口打开。',
+    applyAlt:'打不开?<a href="https://forms.gle/UL3ojft8bHjyTcW58" target="_blank" rel="noopener">在新窗口打开申领表单 ↗</a>(中国大陆访问 Google 需自备网络环境)',
     footer:'茄子 X1 项目 · 官网 <a href="https://CoreXbot.ai" target="_blank" rel="noopener">CoreXbot.ai</a> · 详见 <a href="README.md">README.md</a>'
   },
   en:{
@@ -141,6 +164,9 @@ const T = {
     card1P:'15 facial + 3 neck sliders; emotion presets & blending, arousal physiology, micro-expressions, emotion scripts, AU coupling, layered visualization, idle naturalness, speech visemes, protocol-frame preview and slew-rate scope — all driving 3D in real time.',
     card2T:'Dual-Arm 8-Servo Console',
     card2P:'4 joints per arm (soft limits/mid-pose), 7 keyframe-interpolated gestures, coordination layer (synced stepping / anticipation-follow), pose interlock, gesture scripts, mirror/e-stop-hold, protocol-frame preview; 3D skeletal bone driving.',
+    applyT:'Claim a Free Robot · <span class="g">Sign-up</span>',
+    applyP:'Fill in the form below to register for a free unit (Name · Country/Region · Email · Phone). The form is hosted on Google; if the area below stays blank, open it in a new tab via the link at the bottom.',
+    applyAlt:'Can\'t load it? <a href="https://forms.gle/UL3ojft8bHjyTcW58" target="_blank" rel="noopener">Open the sign-up form in a new tab ↗</a> (accessing Google from mainland China may require your own network).',
     footer:'QIEZI X1 project · Website <a href="https://CoreXbot.ai" target="_blank" rel="noopener">CoreXbot.ai</a> · see <a href="README.md">README.md</a>'
   }
 };
