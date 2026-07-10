@@ -4,6 +4,12 @@
 > **OpenClaw 在虚拟世界长出了手和脚,我们在物理世界长出了头和手。**
 > **黄仁勋说物理 AI 的 ChatGPT 时刻来了,就是我们。**
 
+> **线下全球实体交付中心 · 全国陆续开放(敬请期待)**
+>
+> 我们全国线下智能机器人交付店。正在陆续落地、装修筹备中。后续将逐步公开全国各城市门店地址,欢迎国内用户线下实地到访,沉浸式体验情感交互实体机器人的全维度交互能力。
+>
+> 线下实景体验、真人交互实测、全功能现场演示,敬请期待。
+
 > 项目官网:[CoreXbot.ai](https://CoreXbot.ai)
 >
 > 场景演示:[TikTok](https://www.tiktok.com/@alankwok516/video/7660736349024029959?is_from_webapp=1&sender_device=pc) ｜ [YouTube Shorts](https://youtube.com/shorts/mXssJ0xu4No?feature=share)
