@@ -21,9 +21,14 @@
 > Free-robot guide: [online page-by-page preview (bilingual, 5 pages)](#free-robot-guide-bilingual-page-by-page-preview) ｜ [download original PDF](https://raw.githubusercontent.com/corefusionbot/qiezi-x1-3d-demos/main/docs/free-robot-guide-bilingual.pdf)
 
 <p align="center">
+  <a href="https://docs.qq.com/smartsheet/DTk1IUU9JQmFXd2Rj?tab=t00i2h" target="_blank" rel="noopener"><img src="assets/apply-badge-cn.svg" alt="Free Robot · Mainland China Sign-up" width="300" /></a>
+</p>
+<p align="center"><sub><b>Mainland China users</b> (no VPN needed, Tencent Docs): Name · Country/Region · Email · Phone</sub></p>
+
+<p align="center">
   <a href="https://forms.gle/UL3ojft8bHjyTcW58" target="_blank" rel="noopener"><img src="assets/apply-badge.svg" alt="Apply Now · 立即申领登记" width="300" /></a>
 </p>
-<p align="center"><sub>Free-robot sign-up: Name · Country/Region · Email · Phone (click the button above to open the form; accessing Google from mainland China may require your own network)</sub></p>
+<p align="center"><sub><b>Overseas users</b> (Google Form): Name · Country/Region · Email · Phone (accessing Google from mainland China may require your own network)</sub></p>
 
 <p align="center">
   <img src="assets/showcase-3.jpg" width="30%" alt="QIEZI X1 structural shell prototype" />

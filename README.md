@@ -21,9 +21,14 @@
 > 免费领取机器人说明:[图文在线预览(双语 5 页)](#免费领取机器人说明双语图文预览) ｜ [下载原始 PDF](https://raw.githubusercontent.com/corefusionbot/qiezi-x1-3d-demos/main/docs/free-robot-guide-bilingual.pdf)
 
 <p align="center">
+  <a href="https://docs.qq.com/smartsheet/DTk1IUU9JQmFXd2Rj?tab=t00i2h" target="_blank" rel="noopener"><img src="assets/apply-badge-cn.svg" alt="机器人免费领取 · 国内登记" width="300" /></a>
+</p>
+<p align="center"><sub><b>国内用户</b>(免翻墙,腾讯文档):姓名 · 国家/地区 · 邮箱 · 联系电话</sub></p>
+
+<p align="center">
   <a href="https://forms.gle/UL3ojft8bHjyTcW58" target="_blank" rel="noopener"><img src="assets/apply-badge.svg" alt="立即申领登记 · Apply Now" width="300" /></a>
 </p>
-<p align="center"><sub>免费申领登记:姓名 · 国家/地区 · 邮箱 · 联系电话(点击上方按钮跳转表单;中国大陆访问 Google 需自备网络环境)</sub></p>
+<p align="center"><sub><b>海外用户</b>(Google 表单):姓名 · 国家/地区 · 邮箱 · 联系电话(中国大陆访问 Google 需自备网络环境)</sub></p>
 
 <p align="center">
   <img src="assets/showcase-3.jpg" width="30%" alt="茄子 X1 结构外壳样机" />

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="52" role="img" aria-label="机器人免费领取 国内登记">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d8bff"/>
+      <stop offset="1" stop-color="#1868d6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="318" height="50" rx="10" fill="url(#g)" stroke="#0f4fa8" stroke-width="1"/>
+  <text x="160" y="32" text-anchor="middle" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff">▶  机器人免费领取 · 国内登记</text>
+</svg>
