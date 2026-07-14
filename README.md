@@ -21,7 +21,7 @@
 > 免费领取机器人说明:[图文在线预览(双语 5 页)](#免费领取机器人说明双语图文预览) ｜ [下载原始 PDF](https://raw.githubusercontent.com/corefusionbot/corefusion-3d-demos/main/docs/free-robot-guide-bilingual.pdf)
 
 <p align="center">
-  <a href="https://docs.qq.com/smartsheet/form/NMHQOIBaWwdc%2Ft00i2h%2FvrJWCs?tab=t00i2h" target="_blank" rel="noopener"><img src="assets/apply-badge-cn.svg" alt="机器人免费领取 · 国内登记" width="300" /></a>
+  <a href="https://saas.docs.qq.com/smartsheet/form/ZgazMbSgruRQbHRtEL/70I2Y4/vynCsS?_t=1784038955003&amp;nojump=1&amp;tab=70I2Y4%20%E3%80%90%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3%E4%BC%81%E4%B8%9A%E7%89%88%E3%80%91%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E5%85%8D%E8%B4%B9%E7%94%B3%E9%A2%86%E7%99%BB%E8%AE%B0" target="_blank" rel="noopener"><img src="assets/apply-badge-cn.svg" alt="机器人免费领取 · 国内登记" width="300" /></a>
 </p>
 <p align="center"><sub><b>国内用户</b>(免翻墙,腾讯文档):姓名 · 国家/地区 · 邮箱 · 联系电话</sub></p>
 
